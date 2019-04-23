@@ -2,7 +2,7 @@
   "name": "imagefolder",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,6 +13,7 @@
     "connect-busboy": "0.0.2",
     "express": "^4.16.4",
     "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
     "mongoose": "^5.5.3"
   }
 }
